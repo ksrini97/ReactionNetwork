@@ -1,5 +1,5 @@
 # ReactionNetwork 
-Reaction Network generation from functional group classification
+Reaction Network generation from functional group classification \n
 Module dependencies 
 pip==23.0.l
 pandas==1.5.3
