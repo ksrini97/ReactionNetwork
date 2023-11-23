@@ -1,6 +1,7 @@
 # ReactionNetwork 
 ## Reaction Network generation from functional group classification <br />
 Module dependencies <br />
+python==3.9.12
 pip==23.0.l<br />
 pandas==1.5.3<br />
 numpy==1.24.3<br />
@@ -16,7 +17,9 @@ Identify nodes in the reaction network that matches a certain substructure using
 ## Functional group Match.ipynb <br />
 Perform Tanimoto similarity using MACCS keys with database of molecules <br />
 ## Functional group -Substruc.ipynb <br />
-Perform smilarity search by substructure matching explicitly
+Perform smilarity search by substructure matching explicitly<br />
+
+##Template.zip - Templates extracted from reactions<br />
 
 
 
