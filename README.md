@@ -19,7 +19,7 @@ Perform Tanimoto similarity using MACCS keys with database of molecules <br />
 ## Functional group -Substruc.ipynb <br />
 Perform smilarity search by substructure matching explicitly<br />
 
-##Template.zip - Templates extracted from reactions<br />
+## Template.zip - Templates extracted from reactions<br />
 
 
 
